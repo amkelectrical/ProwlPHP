@@ -52,8 +52,8 @@ try {
 
 	// You can ADD up to 5 api keys
 	// This is a Test Key, please use your own.
-	$oMsg->addApiKey('e0bf09a4cc20ae0bcd63b30b19031ef59a458634');
-	$oMsg->setEvent('My Event!');
+	$oMsg->addApiKey('a0430d27f9aa57a1b5b4debf258d3de10d401e47');
+	$oMsg->setEvent('yalda yassaman!');
 
 	// These are optional:
 	$oMsg->setDescription('My Event description.');
